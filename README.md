@@ -4,16 +4,16 @@
 ---
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 ---
-## Hey there, 🤩
+# Hey there, 🤩
 I'm Nishant Jha, I'm a web developer👨‍💻 i love exploring new web technologies , and i love making new projects 🤓  , i have built some quite different projects using wide variety of technologies!🤟
-
+<br/>
 
 
 - 🔭 I’m currently working on Web Apps using Reactjs
 - 🌱 I’m currently learning Advanced JavaScript and TypeScript
 - 💬 Ask me about: music, hip-hop, coding
 
-
+<br/>
 ### Languages and Tools 🛠 
 
 
