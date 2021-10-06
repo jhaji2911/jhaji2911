@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-jhanishant2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhanishant2000@gmail.com)](mailto:jhanishant2000@gmail.com)
 ---
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
----
+
 # Hey there, 🤩
 I'm Nishant Jha, I'm a web developer👨‍💻 i love exploring new web technologies , and i love making new projects 🤓  , i have built some quite different projects using wide variety of technologies!🤟
 <br/>
