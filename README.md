@@ -10,7 +10,7 @@ I'm Nishant, A fullstack developer.
 
 
 - 🔭 Working on web, mobile, and space.
-- 🌱 Learning Advanced Python.
+- 🌱 Learning Advanced Python and RUST.
 - 💬 Chat with me over Code, space and time.
 
 <br/>
