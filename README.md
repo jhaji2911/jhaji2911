@@ -10,7 +10,7 @@ I'm Nishant, A fullstack developer.
 
 
 - 🔭 Working on web, mobile, and space.
-- 🌱 Learning RUST(crabs all around).
+- 🌱 Learning RUST 🦀 (crabs all around).
 - 💬 Chat with me over Code, space and time.
 
 <br/>
