@@ -10,7 +10,7 @@ I'm Nishant, A fullstack developer.
 
 
 - 🔭 Working on web, mobile, and space.
-- 🌱 Learning RUST 🦀 (crabs all around).
+- 🌱 Learning ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) .
 - 💬 Chat with me over Code, space and time.
 
 <br/>
