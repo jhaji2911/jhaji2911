@@ -4,13 +4,13 @@
 ---
 
 # Hey there, 🙋🏽
-I'm Nishant, A fullstack developer.
+I'm Nishant, A fullstack yapper 🥀.
 <br/>
 
 
-- 🔭 Working on web, mobile, and space.
-- 🌱 Learning ![RUST](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-- 💬 Chat with me over Code, space and time.
+- 🔭 Working on code,space and time.
+- 😮‍💨 Over-engineering ![RUST](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+- 💬 Yap with me.
 
 <br/>
 Languages  🛠 
